@@ -4,7 +4,7 @@ title: Accueil
 nav_order: 1
 ---
 
-Humanités numériques
+Drame satytrique
 {: .text-delta .fs-7 .label .label-purple }
 
 Ressources et conseils pour les cours du master [*Humanités classiques et humanités numériques*](https://hclassiques.parisnanterre.fr/) · université Paris-Nanterre · [Aurélien Berra](mailto:aurelien.berra@parisnanterre.fr)
