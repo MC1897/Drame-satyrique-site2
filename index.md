@@ -4,10 +4,26 @@ title: Accueil
 nav_order: 1
 ---
 
-Drame satytrique
+Drame satyrique
 {: .text-delta .fs-7 .label .label-purple }
 
-Ressources et conseils pour les cours du master [*Humanités classiques et humanités numériques*](https://hclassiques.parisnanterre.fr/) · université Paris-Nanterre · [Aurélien Berra](mailto:aurelien.berra@parisnanterre.fr)
+Maria Constantinou
+Master 2 Humanités classiques et humanités numériques
+Université Paris-Nanterre
+2021-2022
+
+Matériel autour du mémoire de recherche
+Drame satyrique : une théâtralité fragmentaire à faire revivre
+Présence(s) et continuation(s) du chœur satyrique sur la scène contemporaine
+
+## Image
+
+![](assets/images/cyclops_redon)
+Odile Redon, *Le Cyclope*, 1914. Source : [Musée Kröller-Müller](https://krollermuller.nl/en/odilon-redon-the-cyclops-1)
+
+
+Ce site a été crée à des fins académiques, comme annexe au mémoire de recherche préparé en janvier-juin 2022. Le matériel exposé ici est disponible sur le web, et je n'en dispose pas des droits.
+
 {: .pt-8 .pb-8}
 
-[Ressources générales](./docs/general_resources.html){: .btn .mr-4} [Outils et langages](./docs/tools_and_languages.html){: .btn .ml-4}
+[Descrption du projet](./docs/description.md){: .btn .mr-4} 
