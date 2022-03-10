@@ -1,8 +1,10 @@
-title: "Matériel Master 2"
-remote_theme: pmarsceill/just-the-docs
+# DEPLOY with this command: bundle exec jekyll serve --livereload --config _config_local.yml
+title: "HCHN · Matériaux"
+theme: 'just-the-docs' # for local test
 # logo: "/assets/images/test_logo.png"
 aux_links:
-  "Entrepôt Github": "https://github.com/Drame-satyrique-site2"
+  "Carnet Classnum": "https://classnum.hypotheses.org/"
+  "Entrepôt Github": "https://github.com/classnum"
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
@@ -31,7 +33,3 @@ search:
 # allowing users to deep link to a particular heading on a page.
 # Supports true (default) or false
 heading_anchors: true
-# Not using smart quote converter as quotes cannot include NBSPs
-# markdown: kramdown
-# kramdown:
-#   smart_quotes: ldquo,rdquo,laquo,raquo

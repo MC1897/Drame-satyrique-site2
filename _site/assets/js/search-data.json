@@ -1,0 +1,110 @@
+{"0": {
+    "doc": "Test",
+    "title": "Texte",
+    "content": "“Lorem” ipsum ‘dolor’ sit «amet», consectetur « adipiscing » elit. Curabitur tempor, ipsum id tempor congue, ligula justo vehicula velit, id pharetra elit orci at nunc. Phasellus turpis dolor, gravida vel viverra vitae, tincidunt ac velit. ",
+    "url": "http://localhost:4000/docs/den17.html#texte",
+    "relUrl": "/docs/den17.html#texte"
+  },"1": {
+    "doc": "Test",
+    "title": "Image",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/den17.html#image",
+    "relUrl": "/docs/den17.html#image"
+  },"2": {
+    "doc": "Test",
+    "title": "Vidéo",
+    "content": "Par iframe en HTML . ",
+    "url": "http://localhost:4000/docs/den17.html#vid%C3%A9o",
+    "relUrl": "/docs/den17.html#vidéo"
+  },"3": {
+    "doc": "Test",
+    "title": "Test",
+    "content": " ",
+    "url": "http://localhost:4000/docs/den17.html",
+    "relUrl": "/docs/den17.html"
+  },"4": {
+    "doc": "Test",
+    "title": "Test",
+    "content": "Description du projet . Suite à une recherche de Master 1 consacrée aux mises en scène contemporaines des comédies d’Aristophane sur les scènes française et hellénophones, cette année notre recherche porte sur la réception contemporaine du drame satyrique. Comme le corpus de cette recherche consiste avant tout en des mises en scène, objet complexe en tant que donnée, il est important d’accompagner le mémoire d’une exposition d’éléments relatifs à ces mises en scène (photos, extraits vidéo, etc.). A cet égard, le cours de Master 2 intitulé “Humanités Numériques 4” nous a servi pour créer cette exposition virtuelle d’éléments des mises en scène en question. Les trois spectacles du corpus : . Euripide, Le Cyclope, mise en scène de Yiannis Rigas, Théâtre National de la Grèce du Nord (NTNG), 2001 Euripide, Le Cyclope, mise en scène de Pantelis Dentakis, Festival d’Athènes et d’Epidaure, 2017 Euripide, Le Cyclope, mise en scène de Christian Esnay, Le Cube, 2018 . ",
+    "url": "http://localhost:4000/docs/description.html",
+    "relUrl": "/docs/description.html"
+  },"5": {
+    "doc": "Test",
+    "title": "Texte",
+    "content": "“Lorem” ipsum ‘dolor’ sit «amet», consectetur « adipiscing » elit. Curabitur tempor, ipsum id tempor congue, ligula justo vehicula velit, id pharetra elit orci at nunc. Phasellus turpis dolor, gravida vel viverra vitae, tincidunt ac velit. ",
+    "url": "http://localhost:4000/docs/es18.html#texte",
+    "relUrl": "/docs/es18.html#texte"
+  },"6": {
+    "doc": "Test",
+    "title": "Image",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/es18.html#image",
+    "relUrl": "/docs/es18.html#image"
+  },"7": {
+    "doc": "Test",
+    "title": "Vidéo",
+    "content": "Par iframe en HTML . ",
+    "url": "http://localhost:4000/docs/es18.html#vid%C3%A9o",
+    "relUrl": "/docs/es18.html#vidéo"
+  },"8": {
+    "doc": "Test",
+    "title": "Test",
+    "content": " ",
+    "url": "http://localhost:4000/docs/es18.html",
+    "relUrl": "/docs/es18.html"
+  },"9": {
+    "doc": "Accueil",
+    "title": "Accueil",
+    "content": "Drame satyrique . Maria Constantinou Master 2 Humanités classiques et humanités numériques Université Paris-Nanterre 2021-2022 . Matériel autour du mémoire de recherche Drame satyrique : une théâtralité fragmentaire à faire revivre Présence(s) et continuation(s) du chœur satyrique sur la scène contemporaine . Odile Redon, Le Cyclope, 1914. Source : Musée Kröller-Müller . Ce site a été crée à des fins académiques, comme annexe au mémoire de recherche préparé en janvier-juin 2022. Le matériel exposé ici est disponible sur le web, et je n’en dispose pas des droits. Descrption du projet . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"10": {
+    "doc": "Test",
+    "title": "Texte",
+    "content": "“Lorem” ipsum ‘dolor’ sit «amet», consectetur « adipiscing » elit. Curabitur tempor, ipsum id tempor congue, ligula justo vehicula velit, id pharetra elit orci at nunc. Phasellus turpis dolor, gravida vel viverra vitae, tincidunt ac velit. ",
+    "url": "http://localhost:4000/docs/rig01.html#texte",
+    "relUrl": "/docs/rig01.html#texte"
+  },"11": {
+    "doc": "Test",
+    "title": "Image",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/rig01.html#image",
+    "relUrl": "/docs/rig01.html#image"
+  },"12": {
+    "doc": "Test",
+    "title": "Vidéo",
+    "content": "Par iframe en HTML . ",
+    "url": "http://localhost:4000/docs/rig01.html#vid%C3%A9o",
+    "relUrl": "/docs/rig01.html#vidéo"
+  },"13": {
+    "doc": "Test",
+    "title": "Test",
+    "content": " ",
+    "url": "http://localhost:4000/docs/rig01.html",
+    "relUrl": "/docs/rig01.html"
+  },"14": {
+    "doc": "Test",
+    "title": "Texte",
+    "content": "“Lorem” ipsum ‘dolor’ sit «amet», consectetur « adipiscing » elit. Curabitur tempor, ipsum id tempor congue, ligula justo vehicula velit, id pharetra elit orci at nunc. Phasellus turpis dolor, gravida vel viverra vitae, tincidunt ac velit. ",
+    "url": "http://localhost:4000/docs/test.html#texte",
+    "relUrl": "/docs/test.html#texte"
+  },"15": {
+    "doc": "Test",
+    "title": "Image",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/test.html#image",
+    "relUrl": "/docs/test.html#image"
+  },"16": {
+    "doc": "Test",
+    "title": "Vidéo",
+    "content": "Par iframe en HTML . ",
+    "url": "http://localhost:4000/docs/test.html#vid%C3%A9o",
+    "relUrl": "/docs/test.html#vidéo"
+  },"17": {
+    "doc": "Test",
+    "title": "Test",
+    "content": " ",
+    "url": "http://localhost:4000/docs/test.html",
+    "relUrl": "/docs/test.html"
+  }
+}
