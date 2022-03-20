@@ -18,7 +18,7 @@ Présence(s) et continuation(s) du chœur satyrique sur la scène contemporaine*
 
 
 ![](assets/images/cyclops_redon.jpg)\
-Odile Redon, *Le Cyclope*, 1914. Source : [Musée Kröller-Müller](https://krollermuller.nl/en/odilon-redon-the-cyclops-1)
+Odilon Redon, *Le Cyclope*, 1914. Source : [Musée Kröller-Müller](https://krollermuller.nl/en/odilon-redon-the-cyclops-1)
 
 
 *Ce site a été crée à des fins académiques, comme annexe au mémoire de recherche préparé en janvier-juin 2022. Le matériel exposé ici est disponible sur le web, et je n'en dispose pas des droits.*

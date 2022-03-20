@@ -1,10 +1,9 @@
 # DEPLOY with this command: bundle exec jekyll serve --livereload --config _config_local.yml
-title: "HCHN · Matériaux"
+title: "Matériel Master 2"
 theme: 'just-the-docs' # for local test
 # logo: "/assets/images/test_logo.png"
 aux_links:
-  "Carnet Classnum": "https://classnum.hypotheses.org/"
-  "Entrepôt Github": "https://github.com/classnum"
+  "Entrepôt Github": "https://github.com/MC1897/Drame-satyrique-site2"
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
