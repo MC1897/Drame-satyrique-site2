@@ -1,7 +1,7 @@
 # DEPLOY with this command: bundle exec jekyll serve --livereload --config _config_local.yml
 title: "Matériel Master 2"
 theme: 'just-the-docs' # for local test
-# logo: "/assets/images/test_logo.png"
+logo: "/assets/images/eye.jpg"
 aux_links:
   "Entrepôt Github": "https://github.com/MC1897/Drame-satyrique-site2"
 search_enabled: true
@@ -32,3 +32,4 @@ search:
 # allowing users to deep link to a particular heading on a page.
 # Supports true (default) or false
 heading_anchors: true
+color_scheme: dark
