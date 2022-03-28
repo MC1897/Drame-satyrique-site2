@@ -1,6 +1,6 @@
 title: "Matériel Master 2"
 remote_theme: pmarsceill/just-the-docs
- logo: "/assets/images/eye.jpg"
+logo: "/assets/images/eye.jpg"
 aux_links:
   "Entrepôt Github": "https://github.com/Drame-satyrique-site2"
 search_enabled: true
