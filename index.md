@@ -27,7 +27,7 @@ Ce site, crée dans le cadre du cours "Humanités Numériques 4", vise à rassem
 
 
 
-![](../assets/images/satyr.png)
+![](../assets/images/satyr.jpg)
 Masque de satyre, [Musée Getty](https://www.getty.edu/art/collection/objects/32043/unknown-maker-mask-of-a-satyr-greek-sicilian-200-100-bc/)
 {: .fs-3  .float-right }
 
