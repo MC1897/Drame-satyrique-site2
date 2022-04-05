@@ -33,6 +33,5 @@ Masque de satyre, [Musée Getty](https://www.getty.edu/art/collection/objects/32
 
 
 
-*Ce site a été crée à des fins académiques, comme annexe au mémoire de recherche préparé en janvier-juin 2022.\
-Le matériel exposé ici est disponible sur le web, et je n'en dispose pas des droits.*
+*Les matériaux temporairement exposés ici sont librement accessibles sur le Web. Je ne dispose pas de tous les droits de reproduction et de diffusion qui seraient nécessaires à leur publication.*
 {: .fs-2 }
