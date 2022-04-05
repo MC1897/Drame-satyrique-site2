@@ -15,6 +15,7 @@ il est important d'accompagner le mémoire d'une exposition d'éléments relatif
 A cet égard, le cours de Master 2 intitulé "Humanités Numériques 4" nous a servi pour créer
 cette exposition virtuelle d'éléments des mises en scène en question.
 
+
 **Point de départ**
 {: .text-delta .fs-4 .label .label-purple_200 }
 ## Pourquoi étudier la réception du drame satyrique ? ##

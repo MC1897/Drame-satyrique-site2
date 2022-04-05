@@ -13,7 +13,7 @@ nav_order: 3
 
 
 **Vous avez récemment monté Le Cyclope d’Euripide, mais aussi de nombreuses pièces grecques. D’où vient votre intérêt pour le théâtre grec ?**
-{: .text-green-200 }
+{: .text-blue-200 }
 
 L’intérêt pour ce théâtre vient du début de ma carrière, cela m’intéressait déjà lorsque j’ai commencé à faire du théâtre avec Didier-Georges Gabily. On travaillait le mythe avec lui, et il a réécrit d’après les mythes tragiques ; En travaillant avec lui et avec Nada Strancar, élève de Vitez, on ne faisait que des tragédies. On interrogeait le rapport au mythe : pourquoi c’est là, à quoi ça sert ? À Gennevilliers, comme artiste associé, j’ai voulu monter *Iphigénie* sous toutes ses formes, la version d’Euripide et la version de Racine. J’ai donc fait appel à Jean Delabroy, qui a aussi traduit *Le Cyclope* et *Médée*. Quand j’ai vu ce qu’il y avait dans le texte, j’étais stupéfait. J’ai vu que ça pourrait vraiment intéresser le public. Je voulais éclaircir cela, ce qu’il y derrière le mythe.
 
@@ -28,36 +28,36 @@ Il y a eu une version du *Cyclope* en 2012, au théâtre de Chatillon, et une au
 
 
 **Vous arrive-t-il de modifier la structure de la pièce, l’histoire racontée, le texte ?**
-{:	.text-blue }
+{: .text-blue-200 }
 
 C’est toujours sur le texte tel quel que je travaille. Je ne veux rien changer. Je veux raconter ce que dit l’auteur, je ne veux surtout pas raconter autre chose. Quand on raconte autre chose, cela s’adresse aux gens du théâtre, à ceux qui ont vu quinze fois une pièce, et qui ont envie que la seizième fois elle raconte autre chose. Il m’arrive de pousser des choses qui sont dans le texte, mais je ne raconte pas autre chose. Du fait d’avoir travaillé avec D-G. Gabily, je suis un peu trop respectueux de ce qui est écrit, je ne veux rien changer, rien couper, je garde toujours le texte. C’est peut-être un défaut, cela dépend du point de vue.
 
 **Comment envisagez-vous la question de la traduction ? Comment faites-vous le choix du traducteur ?**
-{:	.text-blue }
+{: .text-blue-200 }
 
 C’est une question à laquelle j’ai beaucoup réfléchi. Une traduction, ça vieillit. Par rapport à un texte original qui reste actuel, la traduction, elle, elle vieillit, parce qu’elle est prise dans une époque, dans un temps. Elle peut faire vieux, même si c’est une traduction qui a quarante ans. C’est bien d’actualiser à cet endroit-là, pour que ce soient les mots de notre temps, de notre époque.
 
 Une fois que j’ai rencontré Jean Delabroy, je ne pouvais plus me passer de lui, parce que les découvertes qu’il faisait dans le texte étaient incroyables – je n’ai pas trouvé ça dans les autres versions. On comprend mieux les choses. Le fait que je sois aussi acteur, et que je sache ce que c’est que de dire un texte, joue un rôle aussi. Il y a des endroits qui ne passent pas dans la bouche de l’acteur, et j’ai l’habitude, je peux dire au traducteur, « ça, on ne peut pas le comprendre, ça dit ce que ça dit bien sûr, mas le public ne va pas comprendre ». Avec lui, il nous arrive de modifier la traduction en fonction de ce qui se passe en répétition. Quand il traduit, tout ce qui ne passe pas pour moi, là où on est perdus, je lui demande de recommencer.  Cela arrive beaucoup, parfois il a recommencé les mêmes passages plusieurs fois. Il vient voir comment cela se passe aux répétitions.
 
 **La question du genre du drame satyrique vous a-t-elle occupé pour la mise en scène du *Cyclope* ?**
-{:	.text-blue }
+{: .text-blue-200 }
 
 Bien sûr. C’est fait pour faire rire, ça doit être drôle. Cela vient à bout de trois tragédies, il y a la mort autour, la grandeur, la destinée…  Dans la comédie le contexte est moins violent, moins dur. Pour moi c’était clair que c’est un autre genre, et je voulais que ça apparaisse comme un autre genre. Je voulais être drôle, sans chercher à être comique. A la première version, il y avait un chœur de satyres : des jeunes amateurs de Creil. Comme je voulais mettre la pièce à la fin de trois tragédies, et qu’on ne conserve pas de tétralogie telle quelle, j’ai cherché moi-même trois tragédies et j’ai monté cela [^1]. Je ne trouvais rien, ni à droit ni à gauche, pour savoir comment cela devait être monté, donc je me suis senti libre aussi. Maintenant, je réfléchis à une nouvelle mise en scène du *Cyclope*. Euripide n’est pas bien connu en France, il n’est pas vraiment monté, et j’ai cette ambition de le faire connaitre. Il me semble par ailleurs qu’on ne monte jamais Euripide car il a écrit des pièces qui finissent bien. Elles ne sont jamais montées, car une tragédie qui finit bien, cela pose un problème :  on ne sait pas comment faire.
 
 **Comment s’y prendre pour mettre en scène une pièce grecque ?**
-{:	.text-blue }
+{: .text-blue-200 }
 
 Il n’y a pas de différence pour moi entre pièces grecques et autres textes théâtraux, je procède de la même façon quel que soit le texte. Je ne fais pas de différence entre texte contemporain, classique, antique – la différence c’est le texte lui-même, cela fait jouer différemment les acteurs. Les acteurs, dans leur tête, tant qu’ils n’ont pas travaillé, ont souvent l’impression que c’est quelque chose de lointain. Mais une fois qu’on est sur le plateau ça s’évacue rapidement. Je fais tout un travail pour enlever le tragique dans le jeu, le ton rigide du « classique », pour pouvoir aller dans le concret. L’idée du vieux, du religieux qu’on associe à ce théâtre pour moi n’est pas possible pour l’époque. Ce n’est pas possible qu’à l’époque on tenait toute une journée avec trois acteurs dans ce ton-là. Ils devaient bouger, ils devaient super bien jouer, il y a mille subtilités dans le texte, il devait y avoir rupture tout le temps. Les protagonistes, c’étaient des bêtes de scène, sinon cela ne devait pas être possible que tous ces gens regardent sans qu’il se passe quelque chose d’énorme. Ce devait être riche, incroyable. Sinon on s’ennuie, et cela n’est pas possible.
 
 **On parle souvent du chœur antique comme d’un problème de mise en scène…**
-{:	.text-blue }
+{: .text-blue-200 }
 
 Le problème du chœur est un problème quand on n’a pas assez de moyens. Il faut payer les gens, et quand il faut rajouter dix ou quatorze personnes, ce n’est pas possible, personne ne fait ça, sauf ceux qui ont de grands moyens. Mais à part cela, le chœur est de toute façon problématique. On ne sait jamais ce que c’est, on ne sait pas ce qu’il fait là, c’est toujours un problème. En revanche, supprimer le chœur, et même le coryphée, ne pose aucun problème. Je pense qu’on peut vraiment monter tout le théâtre grec sans le chœur.  Il a une fonction de spectateur qui donne son avis en cours de route, il est actif, il intervient, il réagit, il raconte, mais sa fonction c’est aussi de permettre aux acteurs de se changer : c’est pour cela qu’il sort de l’histoire, qu’il revient en arrière, qu’il raconte autre chose. L’action, ce sont les épisodes. Cela arrive très souvent de monter les tragédies sans le chœur.
 
 Le chœur, ce sont des chanteurs et des danseurs.  Dans *Médée*, la pièce qu’on prépare maintenant, c’est une chanteuse lyrique qui chante les parties chorales. J’ai tout essayé avec le chœur. Quand je montais Aristophane, *La Paix*, on créait un chœur d’habitants des villes où on allait. Ils pourraient être vingt, trente ou quarante personnes dans le chœur, mais ils ne chantaient pas, ils parlaient. Ce n’étaient jamais les mêmes gens, c’étaient des amateurs, et ça rejoignait le théâtre grec par là.
 
 **À part le chœur, ce théâtre pose-t-il d’autres défis de mise en scène ?**
-{:	.text-blue }
+{: .text-blue-200 }
 
 C’est la représentation des dieux qui pose peut-être aussi problème par rapport à ce théâtre, au moins dans notre pays. On n’a pas envie de montrer des pièces où les dieux sont représentés. J’aimerais bien monter *Prométhée* d’Eschyle par ailleurs. Les dieux, ça pose quand même un souci pour la représentation, quand on veut être « sérieux », quand on fait du théâtre « intelligent ». Comment on fait ? on n’a pas envie de se confronter à cette problématique, car il y a aura forcément un certain point de vue. Est-ce que ce sera crédible ? comment on demande à un acteur de jouer un dieu ? Comment il va faire ? C’est compliqué, aussi parce que le fait de représenter empêche parfois d’y croire.
 
@@ -68,7 +68,7 @@ Cela se passe encore dans *Le Cyclope* : l’arrivée du Cyclope, c’est formid
 Mais il y a aussi du tragique, et par ailleurs chez Euripide le tragique n’arrive jamais au même endroit, au début tout va bien et il faut attendre qu’il se passe quelque chose de grave. Dans cette pièce, il réside dans le fait que le Cyclope peut tuer, tue les gens avec qui il est, il les mange. On y retrouve une description sanglante qu’en fait Ulysse, comme celle du messager dans les tragédies. Mais de nouveau, ce n’est pas à vue, on ne tue jamais quelqu’un sur scène. Ça semblerait toujours faux. Comment peut-on demander à un acteur de bien jouer cela ? C’est très compliqué.
 
 **En 2012 au théâtre de Chatillon, vous avez monté une tétralogie, toutes les pièces jouées l’une après l’autre dans la même journée. Comment le public a reçu ce spectacle ?**
-{:	.text-blue }
+{: .text-blue-200 }
 
 Le public a trouvé cela génial, ils n’ont pas vu le temps passer. Quand ils ont vu *Hélène*, ils me disaient « ce n’est pas possible, c’est ça le théâtre antique ? c’est extraordinaire ». Il y a aussi du théâtre dans le théâtre, les personnages jouent des rôles – il ne faut pas attendre Brecht pour le théâtre dans le théâtre, c’est déjà chez Euripide, et c’est magnifique. Les gens applaudissaient pendant un quart d’heure à la fin, ils ne voulaient pas partir. Le tout devait durer autour de sept heures. C’étaient les mêmes quatre acteurs dans toute la tétralogie, comme le faisaient les Grecs. J’aimerais bien sûr reproduire cette expérience, mais personne ne me suit : cela n’intéresse personne. Quand on parle d’Euripide aux gens de théâtre, ou aux directeurs, la réaction c’est que « c’est vieux, c’est chiant, c’est du vieux théâtre ». Tout le monde confond les auteurs, je dis que je monte Euripide et on me parle d’Eschyle… alors que ce n’est pas du tout la même chose. Pour moi, cela n’a rien à voir. Euripide ramène quelque chose de nouveau, de très fort.
 
