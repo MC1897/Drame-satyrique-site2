@@ -15,8 +15,8 @@ La mise en scène la plus ancienne de notre corpus a été réalisée en 2001 au
 Dans un lieu indéfini et atemporel, un chœur de satyres remarquablement entrainé et actif remplit la scène avec ses chants et danses élaborés à plusieurs moments du spectacle et encadre l’action des personnages. Les caractères de ceux-ci construisent un tableau bien équilibré, la figure du Silène avec une touche comique très réussie faisant face à un Ulysse aux traits tragiques, aux côtés d’un Cyclope grotesque et infantilisé.
 
 
-**Identité de la production**
-{: .text-delta .fs-6 .label .label-blue }
+Identité de la production
+{: .text-delta .fs-4 .label .label-blue }
 
 
 Année : 2001

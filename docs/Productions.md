@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Productions du corpus
-nav_order: 02
+nav_order: 03
 ---
 
 
@@ -14,6 +14,7 @@ nav_order: 02
   Euripide, [*Le Cyclope*](https://lecube.labellemeuniere.fr/en/residences/le-cyclope), mise en scène de Christian Esnay, Le Cube, 2018
 
 **Le choix des mises en scène**
+{: .text-delta .fs-4 .label .label-purple_200 }
 
 Afin d’étudier la présence et le traitement du chœur satyrique dans le théâtre contemporain, nous avons choisi de nous concentrer sur des mises en scène relativement récentes, dont les captations étaient accessibles et les metteurs en scène joignables. La pièce qui nous occupera davantage est le *Cyclope* d’Euripide : cette œuvre étant la seule pièce conservée dans son intégralité, et donc plus souvent jouée, elle est aussi celle pour laquelle il a été possible d’obtenir des captations de productions en Grèce et en France. Quant au choix de ces deux pays, nous avons souhaité continuer la recherche parallèle sur les scènes française et grecque par une double envie : regarder ce qui se passe dans le pays où se réalisent le plus grand nombre annuel de mises en scène de théâtre antique, sans perdre de vue l’exploitation, plus sporadique mais vivante, du théâtre antique en France.
 

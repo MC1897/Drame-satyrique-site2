@@ -13,7 +13,7 @@ nav_order: 3
 
 
 **Vous avez récemment monté Le Cyclope d’Euripide, mais aussi de nombreuses pièces grecques. D’où vient votre intérêt pour le théâtre grec ?**
-{:	.text-blue }
+{: .text-green-200 }
 
 L’intérêt pour ce théâtre vient du début de ma carrière, cela m’intéressait déjà lorsque j’ai commencé à faire du théâtre avec Didier-Georges Gabily. On travaillait le mythe avec lui, et il a réécrit d’après les mythes tragiques ; En travaillant avec lui et avec Nada Strancar, élève de Vitez, on ne faisait que des tragédies. On interrogeait le rapport au mythe : pourquoi c’est là, à quoi ça sert ? À Gennevilliers, comme artiste associé, j’ai voulu monter *Iphigénie* sous toutes ses formes, la version d’Euripide et la version de Racine. J’ai donc fait appel à Jean Delabroy, qui a aussi traduit *Le Cyclope* et *Médée*. Quand j’ai vu ce qu’il y avait dans le texte, j’étais stupéfait. J’ai vu que ça pourrait vraiment intéresser le public. Je voulais éclaircir cela, ce qu’il y derrière le mythe.
 

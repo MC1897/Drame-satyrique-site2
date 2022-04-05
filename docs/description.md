@@ -17,7 +17,6 @@ cette exposition virtuelle d'éléments des mises en scène en question.
 
 **Point de départ**
 {: .text-delta .fs-4 .label .label-purple_200 }
-
 ## Pourquoi étudier la réception du drame satyrique ? ##
 
 L’importance de l’étude de la réception des œuvres antiques en tant que branche des études classiques est de plus en plus soulignée dans les travaux les plus récents. En effet, s’intéresser à la manière dont les œuvres du passé sont lues, comprises, ou encore jouées et réinterprétées dans le présent, c’est se rendre compte de l’importance de notre position en tant que lecteurs ou spectateurs, dont le regard permet à ces œuvres d’être réactivées. Dans un ouvrage très éclairant sur la question, Charles Martindale souligne effectivement que le terme réception « a été choisi, au lieu de mots comme « tradition » ou « héritage », précisément pour accentuer le rôle actif que jouent les récepteurs  » [^1]. Les enjeux de la compréhension, de l’interprétation et de la réactivation des œuvres antiques dans telle ou telle époque évoluant avec le temps, la question de la réception ne cesse de se renouveler avec eux.
