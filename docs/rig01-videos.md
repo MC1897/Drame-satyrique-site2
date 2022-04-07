@@ -7,7 +7,7 @@ nav_order: 2
 
 <!-- Balise `video` -->
 
-<video width="560" height="315" controls playsinline>
+<video width="560" height="315" controls playsinline autoplay muted>
   <source type="video/mp4" src="../assets/videos/rig01_video1_converted.m4v">
 </video>
 
